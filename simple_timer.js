@@ -1,6 +1,6 @@
 /*
 * SimpleTimer 2.0.4
-* Copyright © 2019 Zaim Ramlan
+* Copyright © 2022 Mohammad Raihanul Islam
 */
 
 class SimpleTimer {
@@ -8,7 +8,7 @@ class SimpleTimer {
      * Creates an instance of Timer.
      *
      * @constructor
-     * @author: Zaim Ramlan
+     * @author: Mohammad Raihanul Islam
      * @param {number} duration The duration (in seconds) that the timer should countdown to.
      * @param {string} timerContainer The class name of the timer's container.
      * @param {string} originalText The original text to be put back into the timer's container,
