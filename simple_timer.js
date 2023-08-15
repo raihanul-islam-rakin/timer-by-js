@@ -5,7 +5,7 @@
 
 class SimpleTimer {
     /**
-     * Creates an instance of Timer.
+     * Creates an instance of Timer &.
      *
      * @constructor
      * @author: Mohammad Raihanul Islam
