@@ -15,6 +15,7 @@ class SimpleTimer {
      * once the timer completes.
      */
     constructor(duration, timerContainer, originalText) {
+
         this.functionsToExecuteAtTimerEnd = function() {};
         this._everySecond = 1000;
         this._duration = duration;
@@ -72,7 +73,7 @@ class SimpleTimer {
     _formatTimer(secondsInput) {
         var minutes = Math.floor(secondsInput / 60);
         var seconds = secondsInput % 60;
-        var formattedTimer = (minutes < 10 ? "0" : "" ) + minutes + ":" + (seconds < 10 ? "0" : "" ) + seconds;
+        var formattedTimer = (minutes < 20 ? "0" : "" ) + minutes + ":" + (seconds < 10 ? "0" : "" ) + seconds;
         return formattedTimer;
     }
 }
