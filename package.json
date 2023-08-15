@@ -13,7 +13,7 @@
     "timer"
   ],
   "author": "Mohammad Raihanul Islam <raihanul.rakin@gmail.com>",
-  "license": "Apache 2.0",
+  "license": "Apache 3.0",
   "bugs": {
     "url": "https://github.com/rakin777/timer-by-js/issues"
   },
