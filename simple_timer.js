@@ -1,5 +1,5 @@
 /*
-* SimpleTimer 2.0.4
+* SimpleTimer 2.0.3
 * Copyright © 2022 Mohammad Raihanul Islam
 */
 
